@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Hi%20I'm&fontSize=90sang)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Hi%20I'm%20Sang%20woo%20&fontSize=90)
 ## 소개
 -이름 : 김상우
 -나이 : 26세
