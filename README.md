@@ -5,10 +5,10 @@
 - MBTI : ISTP
 
 ## Hobby
-- Movie
-- Game
+- Movie : SF, Fantasy 
+- Game : Warhammer40k, God of war
 - Novel
 
 ## Email
 - sangugdr117@gmail.com
-![footer](https://capsule-render.vercel.app/api?type=wave&color=auto&height=118&section=footer&animation=fadeIn)
+![footer](https://capsule-render.vercel.app/api?type=soft&color=auto&height=118&section=footer&animation=fadeIn)
