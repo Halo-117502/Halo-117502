@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=200&section=header&text=Hi%20I'm%20SangWoo%20&fontSize=70)
 ## About
 - Name : 김상우
-- Gender : Man
+- Gender : Male
 - Age : 26
 - MBTI : ISTP
 
@@ -12,5 +12,8 @@
 
 ## Email
 - sangugdr117@gmail.com
+
+안녕하세요.
+첫 GitHub를 배우고 있는 김상우입니다.
 
 ![footer](https://capsule-render.vercel.app/api?type=soft&color=auto&height=118&section=footer&animation=fadeIn)
