@@ -1,6 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=200&section=header&text=Hi%20I'm%20SangWoo%20&fontSize=70)
 ## About
 - Name : 김상우
+- Gender : Man
 - Age : 26
 - MBTI : ISTP
 
