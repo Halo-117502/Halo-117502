@@ -1,8 +1,8 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Hi%20I'm%20Sang%20woo%20&fontSize=90)
-## 소개
--이름 : 김상우
--나이 : 26세
--MBTI : ISTP
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Hi%20I'm%20SangWoo%20&fontSize=90)
+## About
+- Name : 김상우
+- Age : 26
+- MBTI : ISTP
 
 ![footer](https://capsule-render.vercel.app/api?type=wave&color=auto&height=118&section=footer&animation=fadeIn)
 
