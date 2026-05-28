@@ -4,6 +4,8 @@
 - Age : 26
 - MBTI : ISTP
 
+## Email
+- sangugdr117@gmail.com
 ![footer](https://capsule-render.vercel.app/api?type=wave&color=auto&height=118&section=footer&animation=fadeIn)
 
 <!--
